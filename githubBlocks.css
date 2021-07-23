@@ -1,0 +1,47 @@
+.conteiner {
+    background-color: lightskyblue;
+    width: 1000px;
+    height: 950px;
+    margin: 0px auto;
+}
+
+h1 {
+    font: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.top {
+    background-color: purple;
+    width: 950px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.middle {
+    background-color: hotpink;
+    width: 950px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom {
+    background-color: violet;
+    width: 950px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#url {
+    text-align: center;
+    color: red;
+}
